@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">practice3</string>
+
+    <string name="main_title">Product Catalog</string>
+    <string name="main_subtitle">Select at least 3 products, then tap Next.</string>
+    <string name="next_button">Next</string>
+    <string name="select_at_least">Please select at least %1$d products.</string>
+
+    <string name="second_subtitle">Selected products — review and send.</string>
+    <string name="send_email_button">Send via Email</string>
+    <string name="email_subject">Selected Products</string>
+    <string name="send_email_chooser_title">Send email using…</string>
+    <string name="email_sent_toast">Products sent successfully!</string>
+    <string name="no_products_to_send">No products to send.</string>
+    <string name="no_email_app_found">No email app found on this device.</string>
+
+    <string name="seller_label">Seller: %1$s</string>
+    <string name="product_image_description">Product image</string>
 </resources>
